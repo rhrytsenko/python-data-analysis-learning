@@ -11,3 +11,4 @@ This repository cointains solved exercises from Udemy's [2024 Python Data Analys
 |5|Filtering|[Link](https://github.com/rhrytsenko/udemy-python-data-analysis-course/blob/main/files/5.%20Filtering.ipynb)|
 |6|Adding and Removing Columns|[Link](https://github.com/rhrytsenko/udemy-python-data-analysis-course/blob/main/files/6.%20Adding%20and%20Removing%20Columns.ipynb)|
 |7|Updating Values|[Link](https://github.com/rhrytsenko/udemy-python-data-analysis-course/blob/main/files/7.%20Updating%20Values.ipynb)|
+|8|Working with Types and NA Values|[Link](https://github.com/rhrytsenko/udemy-python-data-analysis-course/blob/main/files/8.%20Working%20with%20Types%20and%20NA%20Values.ipynb)|
