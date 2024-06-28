@@ -13,3 +13,4 @@ This repository cointains solved exercises from Udemy's [2024 Python Data Analys
 |7|Updating Values|loc (+ nested function) <br/> rename (using mapper) <br/>|[Link](https://github.com/rhrytsenko/udemy-python-data-analysis-course/blob/main/files/7.%20Updating%20Values.ipynb)|
 |8|Working with Types and NA Values|isna <br/> dropna <br/> astype <br/> pd.to_numeric|[Link](https://github.com/rhrytsenko/udemy-python-data-analysis-course/blob/main/files/8.%20Working%20with%20Types%20and%20NA%20Values.ipynb)|
 |9|Working with Dates & Times|pd.to_datetime <br/> timedelta <br/> dt.year/month/day <br/> dates filtering|[Link](https://github.com/rhrytsenko/udemy-python-data-analysis-course/blob/main/files/9.%20Working%20with%20Dates%20%26%20Times.ipynb)|
+|10|Matplotlib|plt.show <br/> plt.style.use/available <br/> figure / axes <br/> plt.subplot|[Link]()|
